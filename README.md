@@ -48,15 +48,6 @@ Los datos fueron extraidos de la página oficial "Datos Abiertos Mendoza", para 
 * requests
 * json
 
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## Script base
 
 https://colab.research.google.com/drive/1vNcNygcvxOAfF8MxRJ1uMzR9LU-McJRQ
