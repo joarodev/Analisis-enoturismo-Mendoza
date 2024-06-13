@@ -53,9 +53,7 @@ Los datos fueron extraidos de la página oficial "Datos Abiertos Mendoza", para 
 https://colab.research.google.com/drive/1vNcNygcvxOAfF8MxRJ1uMzR9LU-McJRQ
 
 
-
-
 #### 🚀 Realizado por Joaquín Rodríguez
 
 * [linkedin] *https://www.linkedin.com/in/joaquinrodriguez-dev/*
-* [kaggle] *https://www.linkedin.com/in/joaquinrodriguez-dev/*
+* [kaggle] *https://www.kaggle.com/joarodev*
